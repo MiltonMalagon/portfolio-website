@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "random quotes generator",
+      "description": "Program that prints popular quotes with their respective source, citation, year of publication, and relevant tags. The program automatically updates quotes and background colors after a certain period of time or when the user clicks on the button.",
+      "technologies": ["Vanilla JS", "CSS", "HTML"],
+      "live_link": "https://miltonmalagon.github.io/techdegree-project-1/",
+      "github_link": "https://github.com/MiltonMalagon/techdegree-project-1.git",
+      "image_urls": ["/public/images/random-quotes-generator-1", "/public/images/random-quotes-generator-2", "/public/images/random-quotes-generator-3", "/public/images/random-quotes-generator-4"]
+    }
+  ]
+}
